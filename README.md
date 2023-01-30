@@ -1,6 +1,6 @@
 ## 🖥 2022 Big Data Project
-- - **New development of insurance products** Team project
-- - Understand customer characteristics with actual life insurance company A's data and carry out big data tasks to develop new insurance products that reflect customer needs
+- **New development of insurance products** Team project
+- Understand customer characteristics with actual life insurance company A's data and carry out big data tasks to develop new insurance products that reflect customer needs
 
 
 # 🩺 Development of new insurance products
